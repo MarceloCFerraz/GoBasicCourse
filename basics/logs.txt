@@ -1,0 +1,10 @@
+[2023-11-24T20:59:57 +00:00] https://httpbin.org/status/200 -> 200
+[2023-11-24T20:59:58 +00:00] https://amazon.com.br -> 200
+[2023-11-24T20:59:58 +00:00] https://httpbin.org/status/200 -> 200
+[2023-11-24T20:59:59 +00:00] https://amazon.com.br -> 200
+[2023-11-24T20:59:59 +00:00] https://httpbin.org/status/200 -> 200
+[2023-11-24T20:59:59 +00:00] https://amazon.com.br -> 200
+[2023-11-24T20:59:59 +00:00] https://httpbin.org/status/200 -> 200
+[2023-11-24T20:59:59 +00:00] https://amazon.com.br -> 200
+[2023-11-24T21:00:00 +00:00] https://httpbin.org/status/200 -> 200
+[2023-11-24T21:00:00 +00:00] https://amazon.com.br -> 200
